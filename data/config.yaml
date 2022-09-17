@@ -2,13 +2,13 @@ name: Jacky Zhao
 enableToc: true
 openToc: false
 enableLinkPreview: true
-enableLatex: true
+enableLatex: false
 enableCodeBlockTitle: true
 enableCodeBlockCopy: true
 enableCallouts: true
 enableSPA: true
 enableFooter: true
-enableContextualBacklinks: true
+enableContextualBacklinks: false
 enableRecentNotes: false
 enableGitHubEdit: true
 GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
