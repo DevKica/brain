@@ -4,6 +4,10 @@
 
 <body>
 {{partial "search.html" .}}
+<main class="main-container">
+    <aside class="book-menu">
+        {{ partial "menu" . }}
+    </aside>
 <div class="singlePage">
     <!-- Begin actual content -->
     {{partial "header.html" .}}
@@ -17,5 +21,6 @@
     </article>
     {{partial "contact.html" .}}
 </div>
+</main>
 </body>
 </html>

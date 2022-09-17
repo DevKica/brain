@@ -1,20 +1,24 @@
 <!DOCTYPE html>
 <html lang="{{ .Lang }}">
 {{ partial "head.html" . }}
-
 <body>
 {{partial "search.html" .}}
-<div class="singlePage">
-    <!-- Begin actual content -->
-    {{partial "header.html" .}}
-    <article>
+<main class="main-container">
+    <aside class="book-menu">
+        {{ partial "menu" . }}
+    </aside>
+    <div class="singlePage">
+      <!-- Begin actual content -->
+      {{partial "header.html" .}}
+      <article>
         {{partial "toc.html" .}}
         {{partial "textprocessing.html" . }}
         {{if $.Site.Data.config.enableRecentNotes}}
-          {{partial "recent.html" . }}
+        {{partial "recent.html" . }}
         {{end}}
-    </article>
-    {{partial "footerIndex.html" .}}
-</div>
+      </article>
+      {{partial "footerIndex.html" .}}
+    </div>
+  </main>
 </body>
 </html>
