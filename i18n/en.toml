@@ -5,7 +5,7 @@ other = "Hey! You look a little lost. This page doesn't exist (or may be private
 other = "↳ Let's get you home."
 
 [all_posts]
-other = "All {{.Title}}"
+other = "{{.Title}}"
 
 [last_updated]
 other = "Last updated"
