@@ -5,7 +5,7 @@ title: Think and grow rich
 Cool quotes and concepts
 
 #### Desire
-> The starting point of all achievement is desire. Keep this constantly in mind.
+> [!Quote] The starting point of all achievement is desire. Keep this constantly in mind.
 
 > Disappointment over love affairs, generally has the effect of driving men to drink, and women to ruin; and this, because most people never learn the art of transmuting their strongest emotions into dreams of a constructive nature.
 ---

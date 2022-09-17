@@ -11,7 +11,7 @@
   <ul>
     {{ range (where .Section.Pages "Params.bookhidden" "ne" true) }}
       {{ if .IsSection }}
-        <li {{- if .Params.BookFlatSection }} class="book-section-flat" {{ end -}}>
+        <li class="book-section-flat">
           {{ template "book-page-link" (dict "Page" . "CurrentPage" $.CurrentPage) }}
           {{ template "book-section-children" (dict "Section" . "CurrentPage" $.CurrentPage) }}
         </li>
@@ -29,6 +29,7 @@
   {{ $ancestor := .Page.IsAncestor .CurrentPage }}
 
   {{ if .Page.Params.BookCollapseSection }}
+    <div>collapsed</div>
     <input type="checkbox" id="section-{{ md5 .Page }}" class="toggle" {{ if or $current $ancestor }}checked{{ end }} />
     <label for="section-{{ md5 .Page }}" class="flex justify-between">
       <a {{ if .Page.Content }}href="{{ .Page.RelPermalink }}"{{ else }}role="button"{{ end }} class="{{ if $current }}active{{ end }}">
