@@ -2,6 +2,4 @@
 title: English
 ---
 
-A very cool application to master / learn English vocabulary.
-
-[Learn more about WordUp](https://www.wordupapp.co/)
+To master the English language I use a very cool app - [WordUp](https://www.wordupapp.co/)
