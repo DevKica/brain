@@ -1,10 +1,8 @@
 // Add your own CSS here!
 
 :root {
-  // --light: #faf8f8;
-  // --dark: #141021;
-  --light: rgb(232, 230, 227)
-  --dark: rgb(13, 14, 14);
+  --light: #faf8f8;
+  --dark: #141021;
   --secondary: #284b63;
   --tertiary: #84a59d;
   --visited: #afbfc9;
@@ -25,9 +23,6 @@
   --gray: #d4d4d4 !important;
   --lightgray: #292633 !important;
   --outlinegray: #343434 !important;
-  // my
-  --light:#111 !important;
-  --dark: #fff !important;
 }
 
 ::-webkit-scrollbar{
@@ -50,7 +45,6 @@
 aside{
   width: 15%;
   height: 100vh;
-  padding: 0 10px 20px 10px;
   position: fixed;
   overflow-y:auto;
   overflow-x: hidden;
@@ -58,11 +52,20 @@ aside{
   background-color: var(--light);
 }
 
+aside ul{
+  list-style: none;
+  padding-left: 15px;
+}
+
 aside::-webkit-scrollbar{
   width: 2px;
   background: #fff5f3;
 }
 
-.book-section-flat{
+.folder{
   color: red;
+}
+
+.folder a{
+  color: darkgreen;
 }

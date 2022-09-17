@@ -1,4 +1,4 @@
 ---
 title: Entertainment
-description: Juhu
+description: Example of description
 ---
