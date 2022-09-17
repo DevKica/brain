@@ -3,4 +3,9 @@ title: Entertainment
 description: Juhu
 ---
 
-[[Entertainment/Enterv2]].
+
+#### lorem
+
+lorem ipsum 
+
+>[!Fix] Lorem

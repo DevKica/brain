@@ -2,14 +2,3 @@
 title: Knowledge
 description: My all knowledge :D
 ---
-
-CONTENT
-CONTENT
-CONTENT
-CONTENT
-CONTENT
-CONTENT
-CONTENT
-CONTENT
-CONTENT
-CONTENT

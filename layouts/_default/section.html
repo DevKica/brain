@@ -15,8 +15,8 @@
         {{with .Params.description}}
         <p>{{.}}</p>
         {{end}}
+        {{partial "textprocessing.html" . }}
         {{partial "page-list.html" .Sections }}
-        {{/*  {{partial "page-list.html" .Paginator.Pages }}  */}}
         {{partial "page-list.html" .Paginator.Pages.ByLastmod.Reverse }}
         {{ template "_internal/pagination.html" .}}
     </article>
