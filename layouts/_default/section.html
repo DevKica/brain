@@ -13,8 +13,9 @@
     <article>
         <h1>{{ i18n "all_posts" . }}</h1>
         {{with .Params.description}}
-            <p>{{.}}</p>
+        <p>{{.}}</p>
         {{end}}
+        {{partial "page-list.html" .Sections }}
         {{partial "page-list.html" .Paginator.Pages.ByLastmod.Reverse }}
         {{ template "_internal/pagination.html" .}}
     </article>
