@@ -1,4 +1,7 @@
+---
+title: Syndrom jaskiniowca
+---
 
-> [!Quote] Cool
+> [!Quote] Natura nie wzmacnia słabości. Albo ją wykorzystuje, albo niszczy.
 
-[Link to full article](https://zenjaskiniowca.pl/syndrom-jaskiniowca/)
+[Read full article](https://zenjaskiniowca.pl/syndrom-jaskiniowca/)

@@ -31,4 +31,6 @@
 </div>
 </main>
 </body>
+{{ $js := resources.Get "js/menu.js" }}
+<script src="{{ $js.Permalink }}"></script>
 </html>

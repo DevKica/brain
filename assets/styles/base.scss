@@ -25,7 +25,7 @@ html {
 
 .singlePage {
   padding: 1em 20vw;
-  @media all and (max-width: 1200px) {
+  @media all and (max-width: 1024px) {
     padding: 25px 5vw;
   }
 }
@@ -426,7 +426,7 @@ header {
     margin-left: auto;
     margin-right: auto;
 
-    @media all and (max-width: 1200px) {
+    @media all and (max-width: 1024px) {
       width: 90%;
     }
 

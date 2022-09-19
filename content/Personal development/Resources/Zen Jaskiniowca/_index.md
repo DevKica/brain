@@ -12,8 +12,8 @@ Translated articles: [eng]
 
 Articles read: [pl]
 - [[Personal development/Resources/Zen Jaskiniowca/Articles read/Syndrom jaskiniowca]]
-- [Zmiana (struktura bez bzdur)](https://zenjaskiniowca.pl/zmiana-struktura-bez-bzdur/)
-- [Wolność i równość](https://zenjaskiniowca.pl/wolnosc-i-rownosc/)
+- [[Personal development/Resources/Zen Jaskiniowca/Articles read/Zmiana (struktura bez bzdur)]]
+- [[Personal development/Resources/Zen Jaskiniowca/Articles read/Wolność i równość]]
 - [Motywacja](https://zenjaskiniowca.pl/motywacja/)
 - [Inhibicja](https://zenjaskiniowca.pl/inhibicja/)
 - [Torowanie](https://zenjaskiniowca.pl/torowanie/)
