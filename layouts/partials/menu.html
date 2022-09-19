@@ -1,7 +1,9 @@
 <nav>
-{{ partial "menu-hugo" .Site.Menus.before }}
+{{/*  {{ partial "menu-hugo" .Site.Menus.before }}  */}}
 
 {{ partial "menu-filetree" . }}
 
-{{ partial "menu-hugo" .Site.Menus.after }}
+{{/*  {{ partial "menu-hugo" .Site.Menus.after }}  */}}
 </nav>
+{{ $js := resources.Get "js/menu.js" }}
+<script src="{{ $js.Permalink }}"></script>

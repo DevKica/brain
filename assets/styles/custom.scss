@@ -54,7 +54,7 @@ aside{
 
 aside ul{
   list-style: none;
-  padding-left: 15px;
+  padding-left: 10px;
 }
 
 aside::-webkit-scrollbar{
@@ -63,9 +63,50 @@ aside::-webkit-scrollbar{
 }
 
 .folder{
-  color: red;
+  border: 0.5px solid red;
 }
 
-.folder a{
+.folder .wrapper{
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.folder .title{
+  display: block;
   color: darkgreen;
+  width: 85%;
+}
+
+.folder .a-wrapper{
+  position: absolute;
+  height:100%;
+  width:15%;
+  left: 85%;
+  background-color: wheat;
+}
+
+
+.folder .arrow{
+  content: "";
+  position: absolute;
+  display: inline-block;
+  top: 35%;
+  left: 37.5%;
+  // arrow
+  border: solid black;
+  border-width: 0 0.12rem 0.12rem 0;
+  padding: 0.12rem;
+  // others
+  z-index: 10;
+  cursor: default;
+  //default
+  -webkit-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+
+.down {
+  left: 40%;
+  -webkit-transform: rotate(45deg) !important;
+  transform: rotate(45deg) !important;
 }

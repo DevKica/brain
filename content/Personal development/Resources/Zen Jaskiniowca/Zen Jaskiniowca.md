@@ -7,11 +7,11 @@ About **Zen Jaskiniowca (Rafał Mazur)** - I have always been skeptical about th
 Unfortunately, I didn't find any translations of his articles, I planned to translate them while reading, but I felt that's not the best way to spend my time in my current situation, maybe I will come back to this someday, although I managed to translate two of them which are very worth reading.
 
 Translated articles: [eng]
-- [[Personal development/Resources/Zen Jaskiniowca/Translations/About the harmfulness of compassion and pity]]
-- [[Personal development/Resources/Zen Jaskiniowca/Translations/About ambition, dedication and balance|About ambition,dedication and balance]]
+- [[Personal development/Resources/Zen Jaskiniowca/Translated articles/About the harmfulness of compassion and pity]]
+- [[Personal development/Resources/Zen Jaskiniowca/Translated articles/About ambition, dedication and balance]]
 
 Articles read: [pl]
-- [Syndrom Jaskiniowca](https://zenjaskiniowca.pl/syndrom-jaskiniowca/)
+- [[Personal development/Resources/Zen Jaskiniowca/Articles read/Syndrom jaskiniowca]]
 - [Zmiana (struktura bez bzdur)](https://zenjaskiniowca.pl/zmiana-struktura-bez-bzdur/)
 - [Wolność i równość](https://zenjaskiniowca.pl/wolnosc-i-rownosc/)
 - [Motywacja](https://zenjaskiniowca.pl/motywacja/)

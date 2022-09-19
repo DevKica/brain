@@ -16,3 +16,12 @@ title: Workouts
 ---
 ##### Abs
 [I use abs training plans from leap fitness apps for now](https://leap.app/)
+
+leg raises
+reverse crunches
+russian twist
+mountain climbers
+plank - and long lever
+flutter kicks
+bicycle crunches
+hollow body(??)
