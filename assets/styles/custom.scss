@@ -11,6 +11,11 @@
   --lightgray: #f0f0f0;
   --outlinegray: #dadada;
   --million-progress-bar-color: var(--secondary);
+  // my
+  --cgray: #4e4e4e;
+  --lightRgba: 250,248,248;
+  --darkRgba: 20,16,33;
+  --shadowColor: 6px 6px 4px rgba(var(--darkRgba), 0.35);
 }
 
 [saved-theme="dark"] {
@@ -23,6 +28,11 @@
   --gray: #d4d4d4 !important;
   --lightgray: #292633 !important;
   --outlinegray: #343434 !important;
+  // my
+  --cgray: #6e6e6e !important;
+  --lightRgba: 30,30,33 !important;
+  --darkRgba: 251,255,245 !important;
+  --shadowColor: 1px 2px 2px rgba(var(--darkRgba), 0.35);
 }
 
 ::-webkit-scrollbar{
@@ -47,28 +57,67 @@ aside::-webkit-scrollbar{
   margin: 0 auto;
 }
 
-aside{
+
+@media all and (max-width: 1200px) {
+  .fixed-position{
+    position: fixed;
+  }
+  
+  .blur-element{
+    // background-color: #6b879a;
+    // opacity: 0.4;
+    z-index: 4;
+    &.enabled{
+      position: absolute;
+      height: 100%;
+      width: 100%;
+    }
+  }
+  .blur{
+    transition: all 0.2s linear;
+    filter: blur(1.5px);
+  }
+}
+
+.main-aside{
   width: 16%;
+  padding-right: 1%;
+  padding-bottom: 1em;
   height: 100vh;
-  padding: 0px 1%;
   position: fixed;
   overflow-y:auto;
   overflow-x: hidden;
   color: var(--dark);
   background-color: var(--light);
-  transition: all 0.3s linear;
-
+  transition: all 0.2s linear;
+  border-right: 1.5px solid var(--cgray);
+  left: 0;
+  
   ul{
     list-style: none;
     padding-left: 5%;
   }
-
-  @media all and (max-width: 1024px) {
-    width: 60%;
-    background-color: black;
+  
+  @media all and (max-width: 1200px) {
+    min-width: 250px;
+    border-right:0px;
+    width: max-content;
+    max-width: 35%;
     z-index: 5;
-    top: calc(25px + 10%);
-    .disabled{
+    padding-top: 0;
+    height: 100vh;
+    &.disabled{
+      left:-60%
+    }
+    -webkit-box-shadow: var(--shadowColor);
+    box-shadow: var(--shadowColor);
+  }
+
+  @media all and (max-width: 450px) {
+    width: 98%;
+    max-width: 100%;
+    box-shadow: 0px 0px 0px;
+    &.disabled{
       left:-100%
     }
   }
@@ -78,7 +127,7 @@ aside{
    display: flex;
 }
 
-@media all and (max-width: 1024px) {
+@media all and (max-width: 1200px) {
   .main-header{
     display: flex;
     position: relative;
@@ -89,7 +138,10 @@ aside{
     .nav-wrapper{
       flex-grow: 1;
       flex-basis: 0%;
+      filter: blur(0);
+      z-index: 6;
       .nav-btn{
+        z-index: 6;
         position: relative;
         margin: auto 0;
         width: 1.3rem;
@@ -143,57 +195,46 @@ aside{
 
 
 .folder{
-  .title{
-    display: block;
-    width: 85%;
-  }
-
-  .wrapper{
-    position: relative;
-    width: 100%;
-    height: 100%;
-
-    &:hover{
-      cursor: pointer;
+    .page-link{
+      margin: 1px 0;
     }
-
+    .wrapper{
+      display: flex;
+    }
+    .title{
+      display: block;
+    }
     .a-wrapper{
-      position: absolute;
-      height:100%;
-      width:15%;
-      left: 85%;
-    }
+      padding-right: 10px;
+      &:hover{
+        cursor: pointer;
+      }
+      .arrow{
+        content: "";
+        display: inline-block;
+        // arrow
+        margin-bottom: 3.5px;
+        border: solid var(--dark);
+        border-width: 0 0.13rem 0.13rem 0;
+        padding: 0.12rem;
+        // others
+        z-index: 10;
+        //default
+        -webkit-transform: rotate(-45deg);
+        transform: rotate(-45deg);
+      }
+      .down {
+        -webkit-transform: rotate(45deg) !important;
+        transform: rotate(45deg) !important;
+      }
+  }
+  &>ul{
+    padding-left: 5%;
+    display: none;
   }
 } 
-
-.folder>ul{
-  display: none;
-}
 
 .folder.active>ul{
   display:block;
 }
 
-
-.folder .arrow{
-  content: "";
-  position: absolute;
-  display: inline-block;
-  top: 35%;
-  left: 37.5%;
-  // arrow
-  border: solid var(--dark);
-  border-width: 0 0.12rem 0.12rem 0;
-  padding: 0.12rem;
-  // others
-  z-index: 10;
-  //default
-  -webkit-transform: rotate(-45deg);
-  transform: rotate(-45deg);
-}
-
-.down {
-  left: 40%;
-  -webkit-transform: rotate(45deg) !important;
-  transform: rotate(45deg) !important;
-}

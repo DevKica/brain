@@ -33,7 +33,7 @@
 
 {{ define "children-link" }}{{/* (dict "Page" .Page "CurrentPage" .CurrentPage) */}}
   {{ $current := eq .CurrentPage .Page }}
-    <a href="{{ .Page.RelPermalink }}">
+    <a href="{{ .Page.RelPermalink }}" class="page-link">
       {{- partial "title" .Page -}}
     </a>
 {{ end }}

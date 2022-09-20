@@ -9,19 +9,17 @@
 
     el.addEventListener("click", () => {
       const arrow = el.getElementsByClassName("arrow")[0]
-
       arrow.classList.toggle("down")
       folder.classList.toggle("active")
-      // if (arrow.classList.contains("down")) {
-      //   folder.classList.remove("active")
-      //   arrow.classList.remove("down")
-      // } else {
-      //   folder.classList.add("active")
-      //   arrow.classList.add("down")
-      // }
     })
     index++
   }
+
+  const singlePage = document.getElementsByClassName("singlePage")[0]
+  const body = document.getElementsByTagName("body")[0]
+  const blurElement = document.getElementsByClassName("blur-element")[0]
+  const aside = document.getElementsByClassName("main-aside")[0]
+  const nav_button = document.getElementsByClassName("nav-btn")[0]
 
   index = 0
   for (const el of titles) {
@@ -30,17 +28,41 @@
 
     const arrow = document.getElementsByClassName("arrow")[index]
     el.addEventListener("click", () => {
-      if (!arrow.classList.contains("down")) {
-        folder.classList.add("active")
-        arrow.classList.add("down")
-      }
+      arrow.classList.add("down")
+      folder.classList.add("active")
+      body.classList.remove("fixed-position")
+      blurElement.classList.remove("enabled")
+      aside.classList.add("disabled")
+      nav_button.classList.add("disabled")
+      singlePage.classList.remove("blur")
     })
     index++
   }
 
-  const nav_button = document.getElementsByClassName("nav-btn")[0]
+  blurElement.addEventListener("click", () => {
+    blurElement.classList.remove("enabled")
+    aside.classList.add("disabled")
+    nav_button.classList.add("disabled")
+    body.classList.remove("fixed-position")
+    singlePage.classList.remove("blur")
+  })
+
+  const pagesLink = document.getElementsByClassName("page-link")
+  for (const el of pagesLink) {
+    el.addEventListener("click", () => {
+      aside.classList.add("disabled")
+      nav_button.classList.add("disabled")
+      body.classList.remove("fixed-position")
+      blurElement.classList.remove("enabled")
+      singlePage.classList.remove("blur")
+    })
+  }
 
   nav_button.addEventListener("click", () => {
+    singlePage.classList.toggle("blur")
+    body.classList.toggle("fixed-position")
+    aside.classList.toggle("disabled")
+    blurElement.classList.toggle("enabled")
     nav_button.classList.toggle("disabled")
   })
 })()

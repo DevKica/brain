@@ -102,8 +102,9 @@ const highlight = (content, term) => {
     })
     .join(" ")
     .replaceAll('</span> <span class="search-highlight">', " ")
-  return `${startIndex === 0 ? "" : "..."}${mappedText}${endIndex === splitText.length ? "" : "..."
-    }`
+  return `${startIndex === 0 ? "" : "..."}${mappedText}${
+    endIndex === splitText.length ? "" : "..."
+  }`
 }
 
 // Common utilities for search
@@ -189,21 +190,26 @@ const displayResults = (finalResults, extractHighlight = false) => {
   } else {
     results.innerHTML = finalResults
       .map((result) => {
-          if (extractHighlight) {
-            return resultToHTML({
-              url: result.url,
-              title: highlight(result.title, term),
-              content: highlight(removeMarkdown(result.content), term)
-            })
-          } else {
-            return resultToHTML(result)
-          }
+        if (extractHighlight) {
+          return resultToHTML({
+            url: result.url,
+            title: highlight(result.title, term),
+            content: highlight(removeMarkdown(result.content), term),
+          })
+        } else {
+          return resultToHTML(result)
         }
-      )
+      })
       .join("\n")
     const anchors = [...document.getElementsByClassName("result-card")]
+    // const aside = document.getElementsByClassName("main-aside")[0]
+    // const nav_button = document.getElementsByClassName("nav-btn")[0]
     anchors.forEach((anchor) => {
-      anchor.onclick = () => redir(anchor.id, term)
+      anchor.onclick = () => {
+        // aside.classList.add("disabled")
+        // nav_button.classList.add("disabled")
+        redir(anchor.id, term)
+      }
     })
   }
 }

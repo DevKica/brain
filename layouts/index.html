@@ -3,24 +3,12 @@
 {{ partial "head.html" . }}
 <body>
 {{partial "search.html" .}}
-<main class="main-container">
-    <aside class="book-menu">
+<main class="main-container"><div class="blur-element"></div>
+    <aside class="main-aside disabled">
         {{ partial "menu" . }}
     </aside>
     <div class="singlePage">
-      <!-- Begin actual content -->
-      <header>
-    {{ $config := cond (eq $.Site.Language.Lang "en") "config" (printf "config.%s" $.Site.Language.Lang) }}
-    <h1 id="page-title"><a href="{{ "" | absLangURL }}">
-        {{if .Title}}{{ .Title }}{{else}}Untitled{{end}}
-    </a></h1>
-    <div class="spacer"></div>
-    <div id="search-icon">
-      <p>{{ i18n "search" }}</p>
-      <svg tabindex="0" aria-labelledby="title desc" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title id="title">{{ i18n "search_icon" }}</title><desc id="desc">{{ i18n "icon_search" }}</desc><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"/><circle cx="8" cy="8" r="7"/></g></svg>
-    </div>
-    {{partial "darkmode.html" .}}
-    </header>
+    {{partial "header.html" .}}
       <article>
         {{partial "toc.html" .}}
         {{partial "textprocessing.html" . }}
@@ -34,4 +22,5 @@
   </body>
 {{ $js := resources.Get "js/menu.js" }}
 <script src="{{ $js.Permalink }}"></script>
+{{/*  <script type="text/javascript" src="https://unpkg.com/default-passive-events"></script>  */}}
 </html>
