@@ -207,7 +207,7 @@ const displayResults = (finalResults, extractHighlight = false) => {
     anchors.forEach((anchor) => {
       anchor.onclick = () => {
         // aside.classList.add("disabled")
-        // nav_button.classList.add("disabled")
+        // // nav_button.classList.add("disabled")
         redir(anchor.id, term)
       }
     })

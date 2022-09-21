@@ -33,7 +33,7 @@
       body.classList.remove("fixed-position")
       blurElement.classList.remove("enabled")
       aside.classList.add("disabled")
-      nav_button.classList.add("disabled")
+      // nav_button.classList.add("disabled")
       singlePage.classList.remove("blur")
     })
     index++
@@ -42,7 +42,7 @@
   blurElement.addEventListener("click", () => {
     blurElement.classList.remove("enabled")
     aside.classList.add("disabled")
-    nav_button.classList.add("disabled")
+    // nav_button.classList.add("disabled")
     body.classList.remove("fixed-position")
     singlePage.classList.remove("blur")
   })
@@ -51,7 +51,7 @@
   for (const el of pagesLink) {
     el.addEventListener("click", () => {
       aside.classList.add("disabled")
-      nav_button.classList.add("disabled")
+      // nav_button.classList.add("disabled")
       body.classList.remove("fixed-position")
       blurElement.classList.remove("enabled")
       singlePage.classList.remove("blur")
@@ -63,6 +63,14 @@
     body.classList.toggle("fixed-position")
     aside.classList.toggle("disabled")
     blurElement.classList.toggle("enabled")
-    nav_button.classList.toggle("disabled")
+    // nav_button.classList.toggle("disabled")
+  })
+
+  document.getElementsByClassName("close-nav-mobile")[0].addEventListener("click", () => {
+    aside.classList.add("disabled")
+    // nav_button.classList.add("disabled")
+    body.classList.remove("fixed-position")
+    blurElement.classList.remove("enabled")
+    singlePage.classList.remove("blur")
   })
 })()
