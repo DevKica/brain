@@ -12,10 +12,12 @@
   --outlinegray: #dadada;
   --million-progress-bar-color: var(--secondary);
   // my
+  --lightAlt: #f5f6f8 !important;
+  --secondaryAlt: #e3e5e8 !important;
   --cgray: #4e4e4e;
   --lightRgba: 250,248,248;
   --darkRgba: 20,16,33;
-  --shadowColor: 6px 6px 4px rgba(var(--darkRgba), 0.35);
+  --shadowColor: 4px 4px 4px rgba(var(--darkRgba), 0.35);
 }
 
 [saved-theme="dark"] {
@@ -29,6 +31,8 @@
   --lightgray: #292633 !important;
   --outlinegray: #343434 !important;
   // my
+  --lightAlt: #1a1a1a !important;
+  --secondaryAlt: #000000 !important;
   --cgray: #6e6e6e !important;
   --lightRgba: 30,30,33 !important;
   --darkRgba: 251,255,245 !important;
@@ -88,9 +92,9 @@ aside::-webkit-scrollbar{
   overflow-y:auto;
   overflow-x: hidden;
   color: var(--dark);
-  background-color: var(--light);
+  background-color: var(--lightAlt);
   transition: all 0.2s linear;
-  border-right: 1.5px solid var(--cgray);
+  border-right: 1px solid var(--secondaryAlt);
   left: 0;
   
   ul{
@@ -104,11 +108,11 @@ aside::-webkit-scrollbar{
   @media all and (max-width: 1200px) {
     min-width: 250px;
     z-index: 7;
-    border-right:0px;
     width: max-content;
     max-width: 35%;
     padding-top: 0;
     height: 100vh;
+    border-right:0px;
     &.disabled{
       left:-60%
     }
