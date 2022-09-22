@@ -1,4 +1,6 @@
-
+---
+title: Motivation
+---
 
 > [!Hint] Don't wait for motivation
 >

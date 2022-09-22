@@ -14,6 +14,6 @@ Articles read: [pl]
 - [[Personal development/Resources/Zen Jaskiniowca/Articles read/Syndrom jaskiniowca]]
 - [[Personal development/Resources/Zen Jaskiniowca/Articles read/Zmiana (struktura bez bzdur)]]
 - [[Personal development/Resources/Zen Jaskiniowca/Articles read/Wolność i równość]]
-- [Motywacja](https://zenjaskiniowca.pl/motywacja/)
+- [[Personal development/Resources/Zen Jaskiniowca/Articles read/Motywacja]]
 - [Inhibicja](https://zenjaskiniowca.pl/inhibicja/)
 - [Torowanie](https://zenjaskiniowca.pl/torowanie/)
