@@ -68,8 +68,6 @@ aside::-webkit-scrollbar{
   }
   
   .blur-element{
-    // background-color: #6b879a;
-    // opacity: 0.4;
     z-index: 4;
     &.enabled{
       position: absolute;
@@ -125,7 +123,7 @@ aside::-webkit-scrollbar{
     max-width: 100%;
     box-shadow: 0px 0px 0px;
     &.disabled{
-      left:-100%
+      left:-102%
     }
     .close-nav-mobile{
       display: block;
@@ -178,30 +176,6 @@ aside::-webkit-scrollbar{
         &:hover{
           cursor: pointer;
         }
-        // div:nth-of-type(1){
-        //    transform: rotate(45deg);
-        //     transform-origin: top left;
-        // }
-        // div:nth-of-type(2){
-        //   transform: scale(0);
-        //   opacity: 0;
-        // }
-        // div:nth-of-type(3){
-        //   transform: rotate(-45deg);
-        //   transform-origin: bottom left;
-        // }
-        // &.disabled{
-        //   div{
-        //     transform: none;
-        //     opacity: 1;
-        //     }
-        // }
-        // @media all and (max-width: 450px) {
-        //   div{
-        //     transform: none !important;
-        //     opacity:1 !important;
-        //   }
-        // } 
       }
     }
     #page-title{

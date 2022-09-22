@@ -2,9 +2,10 @@
 public
 resources
 .idea
-content/.obsidian
-content/journal
-content/.obsidian.vimrc
 assets/indices/linkIndex.json
 assets/indices/contentIndex.json
 linkmap
+# content
+content/.obsidian
+content/.obsidian.vimrc
+content/journal

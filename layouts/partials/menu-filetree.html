@@ -1,6 +1,7 @@
+{{/*  inspired by https://github.com/alex-shpak/hugo-book/blob/master/layouts/partials/docs/menu-filetree.html  */}}
 {{ $section := default "/" .Site.Params.BookSection  }}
 {{ if eq $section "*" }}
-  {{ $section = "/" }}{{/* Backward compatibility */}}
+  {{ $section = "/" }} {{/* Backward compatibility */}}
 {{ end }}
 
 {{ with .Site.GetPage $section }}
