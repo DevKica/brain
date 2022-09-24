@@ -15,13 +15,15 @@ title: Workouts
 
 ---
 ##### Abs
-[I use abs training plans from leap fitness apps for now](https://leap.app/)
+cool exercises (30s/10s each to 10min):
 
-leg raises
-reverse crunches
-russian twist
-mountain climbers
-plank - and long lever
-flutter kicks
-bicycle crunches
-hollow body(??)
+- leg raises
+- plank
+- mountain climbers
+- russian twist
+- bicycle crunches
+- plank (long lever)
+- flutter kicks
+- reverse crunches
+- hollow body 
+- v-ups (???)
