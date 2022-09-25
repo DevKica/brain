@@ -27,15 +27,13 @@ Cool quotes and concepts
 >
 > That may seem to be an axiomatic statement, but it is true.
 
-#### Infinite Intelligence
-
-
 #### Subconscious mind 
 > [!Hint] Here is a most significant fact
 >
 > The subconscious mind takes any orders given it in a spirit of absolute faith, and acts upon those orders, although the orders often have to be presented over and over again, through repetition, before they are interpreted by the subconscious mind.
 
 For more read [[Knowledge/Books/Power of your subconscious mind]]
+
 #### Auto suggestion
 > [!Quote] Think positive, it really works
 > 
@@ -45,3 +43,8 @@ For more read [[Knowledge/Books/Power of your subconscious mind]]
 > [!Hint] Knowledge will not attract money
 > 
 > **UNLESS** it is organized, and intelligently directed, through practical plans of action, to the definite end of accumulation of money. Lack of understanding of this fact has been the source of confusion to millions of people who falsely believe that “knowledge is power.” **It is nothing of the sort!** Knowledge is only potential power. It becomes power only when, and if, it is organized into definite plans of action, and directed to a definite end.
+
+#### Habits
+> [!Hint] Invisible harmful habit
+>
+> Every intelligent person knows that stimulation in excess, through alcoholic drink and narcotics, is a form of intemperance which destroys the vital organs of the body, including the brain. Not every person knows, however, that over indulgence in sex expression may become a habit as destructive and as detrimental to creative effort as narcotics or liquor.

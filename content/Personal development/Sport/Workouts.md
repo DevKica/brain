@@ -22,7 +22,6 @@ cool exercises (30s/10s each to 10min):
 - mountain climbers
 - russian twist
 - bicycle crunches
-- plank (long lever)
 - flutter kicks
 - reverse crunches
 - hollow body 
