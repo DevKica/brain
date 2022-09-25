@@ -2,6 +2,7 @@
 title: Workouts
 ---
 
+
 ##### Arms
 | Name | Repetitions  | Series  |
 |-|-|-|

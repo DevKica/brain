@@ -41,8 +41,12 @@
       <!-- path with heading link (i.e. $block) removed -->
       {{$title := index $reference 0}}
       <!-- heading link -->
+      {{if in $title "_index"}}
+        {{$title = substr $title 0 -7}}
+      {{end}}
       {{$block := default "" (index $reference 1)}}
       {{$block = strings.TrimRight "/" (cond (eq $block "") $block (printf "#%s" $block)) | urlize | lower}}
+      {{/*  {{print ($page.GetPage $)}}  */}}
       {{$href := strings.TrimRight "/" ($page.GetPage $title).RelPermalink}}
       <!-- if alias given, use alias, else title -->
       {{$display := default $title (index $split 1)}}
