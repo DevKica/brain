@@ -1,5 +1,5 @@
 ---
-title: Cognitive biases
+title: Psychology
 ---
 
 

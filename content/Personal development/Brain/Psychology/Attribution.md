@@ -6,7 +6,7 @@ title: Attribution
 
 > Attribution is a term used in psychology which deals with how **individuals** perceive the causes of everyday experience, as being either external or internal.  Models to explain this process are called **attribution theory**.
 
-We distinguish between two types of [[Personal development/Brain/Psychology/Attribution]]:
+We distinguish between two types of attribution:
 - [[Personal development/Brain/Psychology/Dispositional attribution]]
 - [[Personal development/Brain/Psychology/Situational attribution]]
 
