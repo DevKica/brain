@@ -16,7 +16,7 @@ title: Workouts
 
 ---
 ##### Abs
-cool exercises (30s/10s each to 10min):
+(30s/10s each to 10min):
 
 - leg raises
 - plank
