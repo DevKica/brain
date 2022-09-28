@@ -2,4 +2,4 @@
 title: Definitive goals
 ---
 
-cos
+todo
