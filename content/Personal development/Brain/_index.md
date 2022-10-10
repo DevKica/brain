@@ -2,4 +2,7 @@
 title: Brain
 ---
 
->[!Hint] If you want to control something, you have to know how it works
+>If you want to control something, **first** you need to know how it works
+
+
+

@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Paweł Kica
 enableToc: false
 openToc: false
 enableLinkPreview: true
@@ -15,12 +15,11 @@ GitHubLink: https://github.com/Pawel-Kica/brain/tree/hugo/content
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  Project "Brain" - I mainly create it to make my notes more accessible for me, but maybe others can use it too
 page_title:
   "Brain"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
+  - link_name: Linkedin
+    link: https://www.linkedin.com/in/pawe%C5%82-kica-945534225/
   - link_name: Github
     link: https://github.com/Pawel-Kica
