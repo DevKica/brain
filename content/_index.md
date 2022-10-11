@@ -11,5 +11,3 @@ Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-th
 5. Support for both Markdown Links and Wikilinks
 
 Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
-
-todo - create your own notes!!!
