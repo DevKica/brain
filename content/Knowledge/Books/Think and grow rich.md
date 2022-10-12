@@ -57,7 +57,16 @@ Related resources: [[Knowledge/Books/Power of your subconscious mind]]
 > 
 > **UNLESS** it is organized, and intelligently directed, through practical plans of action, to the definite end of accumulation of money. Lack of understanding of this fact has been the source of confusion to millions of people who falsely believe that “knowledge is power.” **It is nothing of the sort!** Knowledge is only potential power. It becomes power only when, and if, it is organized into definite plans of action, and directed to a definite end.
 
-### Habits
+### [[Personal development/Habits/_index]]
 > [!bug] Invisible harmful habit
 >
 > Every intelligent person knows that stimulation in excess, through alcoholic drink and narcotics, is a form of intemperance which destroys the vital organs of the body, including the brain. Not every person knows, however, that over indulgence in sex expression may become a habit as destructive and as detrimental to creative effort as narcotics or liquor.
+
+>[!hint] Form the habit of applying and using the positive emotions
+>
+> Eventually, they will **dominate your mind** so completely, that the negatives cannot enter it.
+
+### Brain
+>[!tldr] The Brain is Broadcasting and Receiving Station for Thought
+>
+> The **subconscious mind** is the “sending station” of the brain, through which vibrations of thought are broadcast. The **Creative Imagination** is the “receiving set,” through which the vibrations of thought are picked up from the ether.

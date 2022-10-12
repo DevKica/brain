@@ -14,8 +14,7 @@ enableGitHubEdit: true
 GitHubLink: https://github.com/Pawel-Kica/brain/tree/hugo/content
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
-description:
-  Project "Brain" - I mainly create it to make my notes more accessible for me, but maybe others can use it too
+description: Various notes about my projects, knowledge, interests and philosophy behind my decisions
 page_title:
   "Brain"
 links:
