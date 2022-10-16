@@ -1,12 +1,12 @@
 ---
 title: Concepts
 ---
-
-What are the **[[Productivity/Concepts]]** for me? 
+What are the ***Concepts*** for me? 
 
 Maybe we'll start by asking what I was looking for in my life?
 
 // freedom
+// some sort of patters
 // knowledge
 // a lot of options
 // answer to everything

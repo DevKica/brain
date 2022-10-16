@@ -2,7 +2,7 @@
 title: Think and grow rich
 ---
 
-Cool [[Productivity/Quotes]] and [[Productivity/Concepts]]
+Cool [[Productivity/Quotes]] and [[Productivity/Concepts/_index]]
 
 ### Desire
 > [!done] The starting point of all achievement is desire
