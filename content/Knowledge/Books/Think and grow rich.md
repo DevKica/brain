@@ -5,7 +5,7 @@ title: Think and grow rich
 Cool [[Productivity/Quotes]] and [[Productivity/Concepts/_index]]
 
 ### Desire
-> [!done] The starting point of all achievement is desire
+> [!success] The starting point of all achievement is desire
 >
 > Keep this constantly in mind.
 
@@ -70,3 +70,12 @@ Related resources: [[Knowledge/Books/Power of your subconscious mind]]
 >[!tldr] The Brain is Broadcasting and Receiving Station for Thought
 >
 > The **subconscious mind** is the “sending station” of the brain, through which vibrations of thought are broadcast. The **Creative Imagination** is the “receiving set,” through which the vibrations of thought are picked up from the ether.
+
+>[!hint] The Greatest Forces Are “Intangible”
+>
+>The depression brought the world to the very border-line of understanding of the forces which are intangible and unseen. Through the ages which have passed, man has depended too much upon his physical senses, and has limited his knowledge to physical things, which he could see, touch, weigh, and measure.
+
+### Fear
+>[!danger] Decisions is the seedling of fear! Remember this, as you read.
+>
+> Indecision crystalizes into doubt, the two blend and become fear! The “blending” process often is slow. This is one reason why these three enemies are so dangerous. They germinate and grow without their presence being observed.**
