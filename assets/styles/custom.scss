@@ -85,7 +85,7 @@ aside::-webkit-scrollbar{
   width: 16%;
   padding-right: 1%;
   padding-bottom: 5em;
-  height: 97.5vh;
+  height: 100vh;
   position: fixed;
   overflow-y:auto;
   overflow-x: hidden;
@@ -94,6 +94,10 @@ aside::-webkit-scrollbar{
   transition: all 0.2s linear;
   border-right: 1px solid var(--secondaryAlt);
   left: 0;
+  
+  nav{
+    margin-bottom: 50px;
+  }
   
   ul{
     list-style: none;
