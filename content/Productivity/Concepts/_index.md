@@ -5,6 +5,7 @@ What are the ***Concepts*** for me?
 
 Maybe we'll start by asking what I was looking for in my life?
 
+todo
 // freedom
 // some sort of patters
 // knowledge
