@@ -79,3 +79,12 @@ Related resources: [[Knowledge/Books/Power of your subconscious mind]]
 >[!danger] Decisions is the seedling of fear! Remember this, as you read.
 >
 > Indecision crystalizes into doubt, the two blend and become fear! The “blending” process often is slow. This is one reason why these three enemies are so dangerous. They germinate and grow without their presence being observed.**
+
+>[!success] Symptoms of the Fear of Poverty
+>
+> - indifference - commonly express through lack of ambition; willingness to tolerate poverty
+> - indecision - the habit of permitting others to do one's thinking
+> - doubt -  generally expressed through alibis and excuses designed to cover up, explain away, or apologise for one’s failures, sometimes expressed in the form of envy of those who are successful, or by criticising them.
+> - worry -  usually expressed by finding fault with others, a tendency to spend beyond one’s income, neglect of personal appearance
+> - over-caution -  the habit of looking for the negative side of every circumstance, thinking and talking of possible failure instead of concentrating upon the means of succeeding. Knowing all the roads to disaster, but never searching for the plans to avoid failure.
+> - [[Productivity/Procrastination]] -  the habit of putting off until tomorrow that which should have been done last year
