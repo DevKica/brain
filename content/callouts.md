@@ -46,10 +46,6 @@ See [documentation on supported types and syntax here](https://help.obsidian.md/
 >
 > Aliases: warning, caution, attention
 
-> [!failure] Failure 
->
-> Aliases: failure, fail, missing
-
 > [!danger] Error
 >
 > Aliases: danger, error
@@ -57,6 +53,10 @@ See [documentation on supported types and syntax here](https://help.obsidian.md/
 > [!bug] Bug
 >
 > Aliases: bug
+
+> [!failure] Failure 
+>
+> Aliases: failure, fail, missing
 
 > [!quote] Quote
 >
