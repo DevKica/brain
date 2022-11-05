@@ -2,6 +2,6 @@
 title: Meditation
 ---
 
-I ~~used the medito app~~ - [learn more about it](https://meditofoundation.org/medito-app)
+~~I use the [[Tools/Medito]] app~~
 
-I switched to just the regular timer, but still recommend the medito app, especially for beginners.
+I switched to just the regular timer but still recommend the [[Tools/Medito]] app, especially for beginners.
