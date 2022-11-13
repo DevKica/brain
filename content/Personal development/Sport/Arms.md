@@ -2,6 +2,9 @@
 title: Workouts
 ---
 
+//todo
+
+outdated
 
 ##### Arms
 | Name | Repetitions  | Series  |
@@ -14,16 +17,3 @@ title: Workouts
 |alternative biceps curl|12|3|
 |kickbacks|12|3|
 
----
-##### Abs
-(30s/10s each to 10min):
-
-- leg raises
-- plank
-- mountain climbers
-- russian twist
-- bicycle crunches
-- flutter kicks
-- reverse crunches
-- hollow body 
-- v-ups (???)
