@@ -1,6 +1,6 @@
 .DS_Store
 public
-resources
+/resources
 .idea
 assets/indices/linkIndex.json
 assets/indices/contentIndex.json
