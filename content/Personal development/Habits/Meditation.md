@@ -2,6 +2,4 @@
 title: Meditation
 ---
 
-~~I use the [[Tools/Mobile/Medito]] app~~
-
-I switched to just the regular timer but still recommend the [[Tools/Mobile/Medito]] app, especially for beginners.
+I'm trying to meditate every day (from 3 to 10 minutes) using [[Tools/Mobile/Medito]].
