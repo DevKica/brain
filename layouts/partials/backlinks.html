@@ -1,19 +1,19 @@
-<h3>{{ i18n "backlinks" }}</h3>
+{{/*  <h3>{{ i18n "backlinks" }}</h3>
 <ul class="backlinks">
-    {{$url := urls.Parse .Site.BaseURL }}
-    {{$host := strings.TrimRight "/" $url.Path }}
-    {{$curPage := strings.TrimPrefix $host (strings.TrimRight "/" .Page.RelPermalink)}}
-    {{$linkIndex := getJSON "/assets/indices/linkIndex.json"}}
-    {{$inbound := index $linkIndex.index.backlinks $curPage}}
-    {{$contentTable := getJSON "/assets/indices/contentIndex.json"}}
-    {{if $inbound}}
-    {{$backlinks := dict "SENTINEL" "SENTINEL"}}
-    {{range $k, $v := $inbound}}
-      {{$cleanedInbound := replace $v.source " " "-"}}
-      {{$ctx := $v.text}}
-      {{$backlinks = merge $backlinks (dict $cleanedInbound $ctx)}}
-    {{end}}
-    {{- range $lnk, $ctx := $backlinks -}}
+  {{$url := urls.Parse .Site.BaseURL }}
+  {{$host := strings.TrimRight "/" $url.Path }}
+  {{$curPage := strings.TrimPrefix $host (strings.TrimRight "/" .Page.RelPermalink)}}
+  {{$linkIndex := getJSON "/assets/indices/linkIndex.json"}}
+  {{$inbound := index $linkIndex.index.backlinks $curPage}}
+  {{$contentTable := getJSON "/assets/indices/contentIndex.json"}}
+  {{if $inbound}}
+  {{$backlinks := dict "SENTINEL" "SENTINEL"}}
+  {{range $k, $v := $inbound}}
+  {{$cleanedInbound := replace $v.source " " "-"}}
+  {{$ctx := $v.text}}
+  {{$backlinks = merge $backlinks (dict $cleanedInbound $ctx)}}
+  {{end}}
+  {{- range $lnk, $ctx := $backlinks -}}
       {{$l := printf "%s%s/" $host $lnk}}
       {{$l = cond (eq $l "//") "/" $l}}
       {{with (index $contentTable $lnk)}}
@@ -27,4 +27,4 @@
       {{ i18n "no_backlinks" }}
     </li>
     {{end}}
-</ul>
+</ul>  */}}

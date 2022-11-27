@@ -18,7 +18,6 @@ localGraph:
     opacityScale: 3
 
 ### Global Graph ###
-
 globalGraph:
     enableLegend: false
     enableDrag: true

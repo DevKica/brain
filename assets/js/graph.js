@@ -28,12 +28,39 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
         depth--
         wl.push("__SENTINEL")
       } else {
-        console.log("cur", cur)
-        neighbours.add(cur)
-        console.log(index.links)
         const cur2 = `${cur}/`
-        const outgoing = index.links[cur2] || []
-        const incoming = index.backlinks[cur2] || []
+        let outgoing = []
+        let incoming = []
+
+        let added = false
+
+        if (index.links[cur]) {
+          outgoing = index.links[cur]
+          neighbours.add(cur)
+          added = true
+        } else if (index.links[cur2]) {
+          incoming = index.links[cur2]
+          neighbours.add(cur2)
+          added = true
+        }
+
+        if (index.backlinks[cur]) {
+          outgoing = index.backlinks[cur]
+          if (!added) {
+            neighbours.add(cur)
+          }
+        } else if (index.backlinks[cur2]) {
+          incoming = index.backlinks[cur2]
+          neighbours.add(cur)
+          if (!added) {
+            neighbours.add(cur2)
+          }
+        }
+
+        if (!added) {
+          neighbours.add(cur)
+        }
+
         wl.push(...outgoing.map((l) => l.target), ...incoming.map((l) => l.source))
       }
     }
@@ -41,19 +68,22 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
     parseIdsFromLinks(copyLinks).forEach((id) => neighbours.add(id))
   }
 
+  console.log(neighbours)
   const data = {
     nodes: [...neighbours].map((id) => ({ id })),
     links: copyLinks.filter((l) => neighbours.has(l.source) && neighbours.has(l.target)),
   }
+  console.log(data)
 
   const color = (d) => {
-    if (d.id === curPage || (d.id === "/" && curPage === "")) {
+    if (d.id === curPage || d.id.slice(0, -1) === curPage || (d.id === "/" && curPage === "")) {
       return "var(--g-node-active)"
     }
 
     for (const pathColor of pathColors) {
       const path = Object.keys(pathColor)[0]
       const colour = pathColor[path]
+      // if (d.id.includes("_index")) d.id = d.id.slice(0, -7)
       if (d.id.startsWith(path)) {
         return colour
       }
@@ -98,7 +128,10 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
       "link",
       d3
         .forceLink(data.links)
-        .id((d) => d.id)
+        .id((d) => {
+          // console.log(d.id)
+          return d.id
+        })
         .distance(40),
     )
     .force("center", d3.forceCenter())
@@ -153,6 +186,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
 
   // calculate radius
   const nodeRadius = (d) => {
+    if (d.id.includes("_index")) d.id = d.id.slice(0, -6)
     const numOut = index.links[d.id]?.length || 0
     const numIn = index.backlinks[d.id]?.length || 0
     return 2 + Math.sqrt(numOut + numIn)
@@ -162,14 +196,22 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
   const node = graphNode
     .append("circle")
     .attr("class", "node")
-    .attr("id", (d) => d.id)
+    .attr("id", (d) => {
+      // console.log(d.id)
+      return d.id
+    })
     .attr("r", nodeRadius)
     .attr("fill", color)
     .style("cursor", "pointer")
     .on("click", (_, d) => {
       // SPA navigation
       window.Million.navigate(
-        new URL(`${baseUrl}${decodeURI(d.id).replace(/\s+/g, "-")}/`),
+        new URL(
+          `${baseUrl}${decodeURI(d.id.endsWith("/") ? d.id.slice(0, -1) : d.id).replace(
+            /\s+/g,
+            "-",
+          )}/`,
+        ),
         ".singlePage",
       )
     })

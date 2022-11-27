@@ -3,8 +3,8 @@
   integrity="sha256-+7jaYCp29O1JusNWHaYtgUn6EhuP0VaFuswhNV06MyI="
   crossorigin="anonymous"
 ></script>
-<h3>{{ i18n "interactive_graph" }}</h3>
-<div id="graph-container"></div>
+{{/*  <h3>{{ i18n "interactive_graph" }}</h3>
+<div id="graph-container"></div>  */}}
 <style>
   :root {
     --g-node: var(--secondary);
@@ -15,4 +15,4 @@
   }
 </style>
 {{ $js := resources.Get "js/graph.js" | resources.Fingerprint "md5" }}
-<script src="{{ $js.Permalink }}"></script>
+{{/*  <script src="{{ $js.Permalink }}"></script>  */}}
