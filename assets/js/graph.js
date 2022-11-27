@@ -28,9 +28,12 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
         depth--
         wl.push("__SENTINEL")
       } else {
+        console.log("cur", cur)
         neighbours.add(cur)
-        const outgoing = index.links[cur] || []
-        const incoming = index.backlinks[cur] || []
+        console.log(index.links)
+        const cur2 = `${cur}/`
+        const outgoing = index.links[cur2] || []
+        const incoming = index.backlinks[cur2] || []
         wl.push(...outgoing.map((l) => l.target), ...incoming.map((l) => l.source))
       }
     }
@@ -230,7 +233,10 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
     .attr("dx", 0)
     .attr("dy", (d) => nodeRadius(d) + 8 + "px")
     .attr("text-anchor", "middle")
-    .text((d) => content[d.id]?.title || d.id.replace("-", " "))
+    .text((d) => {
+      if (d.id.includes("_index")) d.id = d.id.slice(0, -7)
+      return content[d.id]?.title || content[`${d.id}/`]?.title || d.id.replace("-", " ")
+    })
     .style("opacity", (opacityScale - 1) / 3.75)
     .style("pointer-events", "none")
     .style("font-size", fontSize + "em")

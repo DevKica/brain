@@ -7,7 +7,7 @@ todo
 Here you can find:
 - [[Core/_index]]
 - [[Knowledge/_index]]
-- [[Productivity/Productivity]]
+- [[Productivity/_index]]
 - [[Personal development/_index]]
 - [[Tools/_index]]
 
