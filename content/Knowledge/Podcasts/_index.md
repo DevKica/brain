@@ -2,6 +2,9 @@
 title: Podcasts
 ---
 
-Worth listening podcasts:
-- [[Knowledge/Podcasts/Huberman lab]]
-- [[Knowledge/Podcasts/Zen jaskiniowca - zrozumieć i wcielić]]
+List of podcasts worth listening:
+- ENG
+	- [[Knowledge/Podcasts/Huberman lab]]
+- PL
+	- [[Knowledge/Podcasts/Zen jaskiniowca - zrozumieć i wcielić]]
+

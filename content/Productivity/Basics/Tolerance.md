@@ -2,7 +2,7 @@
 title: Tolerance
 ---
 
->[!Hint] You have what you tolerate ~ [[Personal development/Resources/Zen Jaskiniowca/_index]]
+>[!Hint] You have what you tolerate ~ [[Knowledge/Web/Zen Jaskiniowca/_index]]
 
 > [!Quote] You can get used to everything
 > 

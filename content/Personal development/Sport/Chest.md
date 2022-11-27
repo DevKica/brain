@@ -2,4 +2,4 @@
 title: Chest
 ---
 
-a lot of different pushups
+A lot of different pushups

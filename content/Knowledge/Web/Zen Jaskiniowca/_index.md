@@ -6,5 +6,5 @@ About **Zen Jaskiniowca (Rafał Mazur)** - I have always been skeptical about th
 
 Unfortunately, I didn't find any translations of his articles, I planned to translate them while reading, but I felt that's not the best way to spend my time in my current situation, maybe I will come back to this someday, although I managed to translate two of them which are very worth reading.
 
-- [[Personal development/Resources/Zen Jaskiniowca/Articles read/_index]]
-- [[Personal development/Resources/Zen Jaskiniowca/Translated articles/_index]]
+- [[Knowledge/Web/Zen Jaskiniowca/Articles read/_index]]
+- [[Knowledge/Web/Zen Jaskiniowca/Translated articles/_index]]
