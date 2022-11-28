@@ -16,3 +16,4 @@ todo
 // handle contradictions
 // do not think 0/1
 // think! don't be carried by emotions
+Similar to [mental models](https://en.wikipedia.org/wiki/Mental_model)
