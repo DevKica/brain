@@ -2,5 +2,8 @@
 title: Time
 ---
 
-stop wasting it bruh
-![[assets/Pasted image 20221128221839.png]]
+>[!hint] Time is running out, don't waste it!
+>
+> On the day I write this note, this is what it looks like to me (I didn't fill in the earlier tiles)
+
+[[assets/life-in-weeks.jpeg]]
