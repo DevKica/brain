@@ -2,4 +2,4 @@
 title: Philosophy behind my decisions
 ---
 
-How this thing will help me achieve my goals
+How this thing will help me achieve my goals?

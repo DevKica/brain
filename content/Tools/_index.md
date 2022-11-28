@@ -17,4 +17,5 @@ List of apps I use:
 - [[Tools/Rize]] - Activity tracker for MacOS
 - [[Tools/Todoist]] - To do list
 - [[Tools/Size up]] - Window manager for MacOS
-- [[Tools/Wordup]] - App for mastering english vocabulary
+- [[Warp]] - Modern terminal with A.I. Command Search for MacOS
+ - [[Tools/Wordup]] - App for mastering english vocabulary
