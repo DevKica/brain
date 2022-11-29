@@ -10,4 +10,5 @@ title: Habits
 
  - [[Personal development/Habits/Cold showers]]
  - [[Personal development/Habits/Meditation]]
- - [[Personal development/Habits/Drinking water]]
+ - [[Personal development/Habits/Drinking water (a lot of)]]
+ - [[Personal development/Habits/No sweet drinks]]

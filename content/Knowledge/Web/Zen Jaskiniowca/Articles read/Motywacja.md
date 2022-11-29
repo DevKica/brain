@@ -15,6 +15,6 @@ Motywacja 'od’ jest 2 x silniejsza niż motywacja 'do’. To dlatego profilakt
 >
 > Motywacja nie jest logiczna czy racjonalna, stąd nie można mieć jej automatycznie na zawołanie, tylko dlatego, że logiczne przodomózgowie ma takie życzenie. Przyznasz, że to dość ważna uwaga.
 
-Related notes: [[Productivity/Basics/Motivation]]
+Related notes: [[Personal development/Brain/Psychology/Basics/Motivation]]
 
 [Read full article](https://zenjaskiniowca.pl/motywacja/)

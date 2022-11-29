@@ -15,6 +15,7 @@ List of apps I use:
 - [[Tools/Obsidian]] - Powerful Markdown-based note-taking app
 - [[Tools/Raycast]] - Advanced launcher for MacOS
 - [[Tools/Rize]] - Activity tracker for MacOS
+- [[Tools/Rocket]] - Custom emoji picker for MacOS
 - [[Tools/Todoist]] - To do list
 - [[Tools/Size up]] - Window manager for MacOS
 - [[Warp]] - Modern terminal with A.I. Command Search for MacOS

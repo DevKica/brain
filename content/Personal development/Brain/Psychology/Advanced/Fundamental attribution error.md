@@ -17,6 +17,6 @@ title: Fundamental attribution error
 
 > [!Hint] Be aware of how your mind works
 >
-> People have tendency to justify **THEIR** behavior through **SITUATIONAL** factors, but the behavior of **OTHERS** through personal factors. This is because our **mind** often tries to protect our self-esteem ([[Personal development/Brain/Psychology/Self-defense tendency]])
+> People have tendency to justify **THEIR** behavior through **SITUATIONAL** factors, but the behavior of **OTHERS** through personal factors. This is because our **mind** often tries to protect our self-esteem ([[Personal development/Brain/Psychology/Advanced/Self-defense tendency]])
 
 References: [Fundamental attribution error](https://en.wikipedia.org/wiki/Fundamental_attribution_error)

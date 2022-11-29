@@ -3,7 +3,7 @@ title: Argument from authority
 ---
 
 ### Definition
->An **argument from authority**, also called an **appeal to authority** is a form of argument in which the opinion of an authority on a topic is used as evidence to support an argument. When a person invoked as an authority on the subject is actually wrong, a [[Personal development/Brain/Psychology/Cognitive bias]] occurs.
+>An **argument from authority**, also called an **appeal to authority** is a form of argument in which the opinion of an authority on a topic is used as evidence to support an argument. When a person invoked as an authority on the subject is actually wrong, a [[Personal development/Brain/Psychology/Advanced/Cognitive bias]] occurs.
 
 ### Example
 > Person or persons A claim that X is true.  

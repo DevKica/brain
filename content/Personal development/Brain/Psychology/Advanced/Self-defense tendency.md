@@ -3,7 +3,7 @@ title: Self-defense tendency
 ---
 
 ### Definition
->The phenomenon of assigning **oneself** (on the basis of [[Personal development/Brain/Psychology/Dispositional attribution]]) responsibility for successes, and responsibility for one's failures (through [[Personal development/Brain/Psychology/Situational attribution]]) to external factors. It serves to protect your self-esteem. 
+>The phenomenon of assigning **oneself** (on the basis of [[Personal development/Brain/Psychology/Advanced/Dispositional attribution]]) responsibility for successes, and responsibility for one's failures (through [[Personal development/Brain/Psychology/Advanced/Situational attribution]]) to external factors. It serves to protect your self-esteem. 
 
 ### Example 
 From police records describing the statement of the driver who caused the accident: "The telephone pole was approaching fast, I was trying to get out of the way when it hit the front of my car." 
