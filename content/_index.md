@@ -6,7 +6,6 @@ This is the place where I store various notes about my projects, knowledge, inte
 
 - [[Core/_index]]
 - [[Knowledge/_index]]
-- [[Productivity/_index]]
 - [[Tools/_index]]
 - [[Coding/_index]]
 
