@@ -3,7 +3,6 @@ title: Coding
 ---
 
 List of apps and extensions I use on daily basis:
-- [[Coding/Tabnineesa]] - A.I. code completion assistant
 - [Coding/Figma](https://www.figma.com/) - App for designing interfaces 
 - [[Coding/Snippets]] - Small blocks of reusable code (I have them for all technologies I work in)
 - [[Coding/Tabnine]] - A.I. code completion assistant
