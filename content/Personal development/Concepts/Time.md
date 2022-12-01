@@ -4,6 +4,6 @@ title: Time
 
 >[!hint]  Pls don't waste it
 >
-> On the day I write this note, this is what it looks like to me (I didn't fill in the earlier tiles)
+> On the day I write this note, this is what it looks like to me (ignore earlier tiles)
 
 ![[assets/life-in-weeks.jpeg]]

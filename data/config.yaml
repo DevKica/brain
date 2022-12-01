@@ -1,7 +1,7 @@
 name: Paweł Kica
 enableToc: false
 openToc: false
-enableLinkPreview: true
+enableLinkPreview: false
 enableLatex: false
 enableCodeBlockTitle: true
 enableCodeBlockCopy: true
