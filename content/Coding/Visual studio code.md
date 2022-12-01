@@ -2,6 +2,6 @@
 title: Visual studio code
 ---
 
-### Minimalism is beautiful!
+This is how my home screen looks like - all in the spirit of [[Core/Minimalism]]
 
 ![[assets/vscode.png]]
