@@ -2,13 +2,11 @@
 title: Brain
 ---
 
-todo
+This is the place where I store various notes about my projects, knowledge, interests and philosophy behind my decisions
 
-Here you can find:
 - [[Core/_index]]
 - [[Knowledge/_index]]
 - [[Productivity/_index]]
-- [[Personal development/_index]]
 - [[Tools/_index]]
 - [[Coding/_index]]
 
