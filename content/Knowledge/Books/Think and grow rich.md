@@ -2,7 +2,7 @@
 title: Think and grow rich
 ---
 
-Cool [[Personal development/Concepts/Quotes]] and [[Personal development/Concepts/_index]]
+My notes, quotes and [[Personal development/Concepts/_index]]
 
 ### Desire
 > [!success] The starting point of all achievement is desire
@@ -52,6 +52,10 @@ Related resources: [[Knowledge/Books/Power of your subconscious mind]]
 > 
 > Through the dominating thoughts which one permits to remain in the **conscious** mind, (whether these thoughts be **negative or positive**, is immaterial), the principle of auto-suggestion voluntarily reaches the subconscious mind and influences it with these thoughts.
 
+> [!success] Unfortunately, there is no legal protection against those who, either by design or ignorance, poison the minds of others by negative suggestion.
+> 
+> This form of destruction should be punishable by heavy legal penalties, because it may and often does destroy one’s chances of acquiring material things which are protected by law
+
 ### Knowledge
 > [!Hint] Knowledge will not attract money
 > 
@@ -66,7 +70,7 @@ Related resources: [[Knowledge/Books/Power of your subconscious mind]]
 >
 > Eventually, they will **dominate your mind** so completely, that the negatives cannot enter it.
 
-### Brain
+### Brain / Mind
 >[!tldr] The Brain is Broadcasting and Receiving Station for Thought
 >
 > The **subconscious mind** is the “sending station” of the brain, through which vibrations of thought are broadcast. The **Creative Imagination** is the “receiving set,” through which the vibrations of thought are picked up from the ether.
@@ -74,6 +78,10 @@ Related resources: [[Knowledge/Books/Power of your subconscious mind]]
 >[!hint] The Greatest Forces Are “Intangible”
 >
 >The depression brought the world to the very border-line of understanding of the forces which are intangible and unseen. Through the ages which have passed, man has depended too much upon his physical senses, and has limited his knowledge to physical things, which he could see, touch, weigh, and measure.
+
+> [!info] Mind control is the result of self-discipline and habit. 
+> 
+> You either control your mind or it controls you. There is no hall-way compromise. The most practical of all methods for controlling the mind is the habit of keeping
 
 ### Fear
 >[!danger] Decisions is the seedling of fear! Remember this, as you read.
