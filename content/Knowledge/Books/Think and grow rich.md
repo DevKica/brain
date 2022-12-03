@@ -1,8 +1,21 @@
 ---
-title: Think and grow rich
+title: Think and Grow Rich
 ---
 
-My notes, quotes and [[Personal development/Concepts/_index]]
+### 13 Laws of Success:
+- Desire
+- Faith
+- Auto-Suggestion
+- Specialized Knowledge
+- Imagination
+- Organized planning
+- Decision
+- Persistence
+- Power of the Master Mind
+- The Mystery of Sex
+- The Subconscious Mind
+- The Brain
+- The Sixth Sense
 
 ### Desire
 > [!success] The starting point of all achievement is desire

@@ -3,7 +3,7 @@ title: Podcasts
 ---
 Some tips for listening podcasts:
 - Top Tip - If you have the choice whether to listen or read something, choose reading! - trust me, it will benefit you
-- Listen up to an hour a day
+- The same tip as when reading [[Knowledge/Books/_index]] - don't hesitate to listen to something several times
 
 List of podcasts worth listening
 - [[Knowledge/Podcasts/Huberman lab]]
