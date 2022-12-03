@@ -95,7 +95,7 @@ Related resources: [[Knowledge/Books/Power of your subconscious mind]]
 > - doubt -  generally expressed through alibis and excuses designed to cover up, explain away, or apologise for one’s failures, sometimes expressed in the form of envy of those who are successful, or by criticising them.
 > - worry -  usually expressed by finding fault with others, a tendency to spend beyond one’s income, neglect of personal appearance
 > - over-caution -  the habit of looking for the negative side of every circumstance, thinking and talking of possible failure instead of concentrating upon the means of succeeding. Knowing all the roads to disaster, but never searching for the plans to avoid failure.
-> - [[Personal development/Brain/Psychology/Basics/Procrastination]] -  the habit of putting off until tomorrow that which should have been done last yea
+> - [[Personal development/Brain/Procrastination]]-  the habit of putting off until tomorrow that which should have been done last year
 
 >[!tldr] A reputable physician estimated that 75% of all people who visit physicians for professional service are suffering with hypochondria.
 >

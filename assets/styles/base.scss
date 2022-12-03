@@ -10,6 +10,7 @@
 
 // typography
 html {
+  height: --webkik-fill-available;
   scroll-behavior: smooth;
   &:lang(ar) {
     & p, & h1, & h2, & h3, article, header {
@@ -37,7 +38,8 @@ html {
 
 body {
   margin: 0;
-  height: 100vh;
+  height: calc(100vh);
+  height: --webkik-fill-available;
   width: 100vw;
   max-width: 100%;
   box-sizing: border-box;
