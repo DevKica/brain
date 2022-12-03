@@ -10,7 +10,7 @@
 
 // typography
 html {
-  height: --webkik-fill-available;
+  height: -webkit-fill-available;
   scroll-behavior: smooth;
   &:lang(ar) {
     & p, & h1, & h2, & h3, article, header {
@@ -37,13 +37,15 @@ html {
 
 
 body {
+  background-color: var(--light);
+  box-sizing: border-box;
   margin: 0;
-  height: calc(100vh);
-  height: --webkik-fill-available;
   width: 100vw;
   max-width: 100%;
-  box-sizing: border-box;
-  background-color: var(--light);
+  display: flex;
+  flex-direction: column;
+  height: calc(100vh);
+  height: -webkit-fill-available;
 }
 
 h1, h2, h3, h4, h5, h6, thead {

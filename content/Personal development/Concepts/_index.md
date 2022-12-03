@@ -21,4 +21,5 @@ Similar to [mental models](https://en.wikipedia.org/wiki/Mental_model)
 - [[Personal development/Concepts/Better safe than sorry]]
 - [[Personal development/Concepts/Definitive goals]]
 - [[Personal development/Concepts/Life as a game]]
-- [[Personal development/Concepts/Quotes]]
+- [[Personal development/Concepts/40% rule]]
+- [[Personal development/Concepts/Two Day rule]]

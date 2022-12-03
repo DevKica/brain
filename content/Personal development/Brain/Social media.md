@@ -2,4 +2,4 @@
 title: Social media
 ---
 
-don't waste your [[Personal development/Concepts/Time]]
+don't waste your [[Personal development/Productivity/Time]]
