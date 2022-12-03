@@ -18,7 +18,6 @@ List of apps:
 - [[Tools/Rize]] - Activity tracker
 - [Rocket](https://matthewpalmer.net/rocket/) - Custom emoji picker for MacOS
 - [[Tools/Todoist]] - To-do list
-- [[Tools/Size up]] - Window manager for MacOS
 - [[Warp]] - Modern terminal with A.I. Command Search for MacOS
  - [Wordup](https://www.wordupapp.co/) - App for mastering english vocabulary
 
