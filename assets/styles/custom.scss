@@ -103,6 +103,10 @@ aside::-webkit-scrollbar{
   }
   
   @media all and (max-width: 1400px) {
+    width: 20vw;
+  }
+
+  @media all and (max-width: 1200px) {
     width: 25vw;
   }
   

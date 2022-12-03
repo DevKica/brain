@@ -26,8 +26,11 @@ html {
 
 .singlePage {
   padding: 1em 20vw;
+  padding-right: 5vw;
   @media all and (max-width: 1400px) {
-    padding-right: 5vw;
+    padding-left: 25vw;
+  }
+  @media all and (max-width: 1200px) {
     padding-left: 30vw;
   }
   @media all and (max-width: 1000px) {
@@ -46,6 +49,12 @@ body {
   flex-direction: column;
   height: calc(100vh);
   height: -webkit-fill-available;
+  @media all and (min-width: 1000px) {
+    font-size: 1.1rem;
+  }
+  @media all and (min-width: 1200px) {
+    font-size: 1.15rem;
+  }
 }
 
 h1, h2, h3, h4, h5, h6, thead {
