@@ -1,5 +1,0 @@
----
-title: Translated articles
----
-
-todo

@@ -2,4 +2,4 @@
 title: Cold showers
 ---
 
-Try to start with 1 minute
+Just try to start with 1 minute

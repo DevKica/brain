@@ -3,7 +3,7 @@ title: Coding
 ---
 
 List of apps and extensions I use on daily basis:
-- [Coding/Figma](https://www.figma.com/) - App for designing interfaces 
+- [Figma](https://www.figma.com/) - App for designing interfaces 
 - [[Coding/Snippets]] - Small blocks of reusable code (I have them for all technologies I work in)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Code formatter
 - [DBeaver](https://dbeaver.io/) - Universal Database Tool

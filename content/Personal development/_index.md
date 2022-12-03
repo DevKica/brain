@@ -6,5 +6,4 @@ title: Personal development
 - [[Personal development/Brain/_index]]
 - [[Personal development/Concepts/_index]]
 - [[Personal development/Habits/_index]]
-- [[Knowledge/Others/_index]]
-- [[Personal development/Sport/_index]]
+- [[Personal development/Productivity/_index]]
