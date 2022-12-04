@@ -4,17 +4,20 @@ title: Sport
 
 todo
 
-### Chest
-- a lot of different pushups
+### Full body workout
+<br/>
 
-### Arms
-- arms fly
-- front raise
-- biceps curl
-- military press
-- triceps extension
+| Name | Repetitions | Series | Weight |
+|-|-|-|-|
+|Pushups|12|4|none|
+|Lateral raises|12|4|5 kg|
+|Biceps curls|12|4|6.5 kg|
+|Reversed biceps curls|12|2| 6.5 kg|
+|Triceps extensions|12|4| 6.5 kg|
 
-### Abs
+<!--- |Lateral raises|12|4|5 kg| -->
+
+### Abs (30s/10s of break, up to 10/15 minutes)
 - leg raises
 - plank / long lever
 - mountain climbers
