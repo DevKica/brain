@@ -6,14 +6,14 @@ About **Zen Jaskiniowca (Rafał Mazur)** - I have always been skeptical about th
 
 Unfortunately, I didn't find any translations of his articles, I planned to translate them while reading, but I felt that's not the best way to spend my time, maybe I will come back to this idea in future.
 
-List of articles read with my favourite quotes from them:
+List of articles with my favourite quotes from them:
 - [[Knowledge/Web/Zen Jaskiniowca/Syndrom jaskiniowca]]
 - [[Knowledge/Web/Zen Jaskiniowca/Zmiana (struktura bez bzdur)]]
-- [[Knowledge/Web/Zen Jaskiniowca/Opór]]
-- [[Knowledge/Web/Zen Jaskiniowca/5W5H]]
-- [[Knowledge/Web/Zen Jaskiniowca/Inhibicja]]
-- [[Knowledge/Web/Zen Jaskiniowca/Jak zostać królem życia]]
-- [[Knowledge/Web/Zen Jaskiniowca/Motywacja]]
-- [[Knowledge/Web/Zen Jaskiniowca/Może]]
-- [[Knowledge/Web/Zen Jaskiniowca/Torowanie]]
 - [[Knowledge/Web/Zen Jaskiniowca/Wolność i równość]]
+- [[Knowledge/Web/Zen Jaskiniowca/Motywacja]]
+- [[Knowledge/Web/Zen Jaskiniowca/Inhibicja]]
+- [[Knowledge/Web/Zen Jaskiniowca/Torowanie]]
+- [[Knowledge/Web/Zen Jaskiniowca/5W5H]]
+- [[Knowledge/Web/Zen Jaskiniowca/Może]]
+- [[Knowledge/Web/Zen Jaskiniowca/Opór]]
+- [[Knowledge/Web/Zen Jaskiniowca/Jak zostać królem życia]]

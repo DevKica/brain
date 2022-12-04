@@ -10,4 +10,4 @@ title: Inhibicja
 >
 > **Siła woli** jest na dobrą sprawę *„paliwem”* używanym w procesie inhibicji. Tak więc inhibicja i siła woli są tymczasowym *„uchyleniem”* odruchów pierwotnych. To dlatego oszczędzanie jest tak trudne. To dlatego inwestowanie bez wpadania w panikę przy stracie jest tak trudne. I tak trudne jest odchudzanie. **Jest wbrew naszym instynktom**. Łatwiej jest wydawać, łatwiej panikować i łatwiej jeść.
 
-[Read full article](https://zenjaskiniowca.pl/inhibicja/)
+[Read the full article](https://zenjaskiniowca.pl/inhibicja/)

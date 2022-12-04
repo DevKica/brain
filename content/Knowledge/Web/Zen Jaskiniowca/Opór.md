@@ -10,6 +10,6 @@ title: Opór
 >
 >Owszem, będzie na posterunku co rano ale Ty już wtedy wiesz, że można go pokonać. Gratulacje i punkt dla Ciebie.
 
-[Read the first part of the article](https://zenjaskiniowca.pl/opor-najwieksze-hity/)
+[Read the full article (first part)](https://zenjaskiniowca.pl/opor-najwieksze-hity/)
 <br>
-[Read the second part of the article](https://zenjaskiniowca.pl/opor-najwieksze-hity-2/)
+[Read the full article (second part)](https://zenjaskiniowca.pl/opor-najwieksze-hity-2/)

@@ -13,4 +13,4 @@ title: Torowanie
 > Możesz poświęcić kilka chwil na to, by świadomie zdecydować, jakie sygnały do siebie dopuścisz. Twój umysł powiadomi Cię, kiedy sygnały te się pojawią.
 
 
-[Read full article](https://zenjaskiniowca.pl/torowanie/)
+[Read the full article](https://zenjaskiniowca.pl/torowanie/)

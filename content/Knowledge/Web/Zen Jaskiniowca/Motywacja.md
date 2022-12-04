@@ -17,4 +17,4 @@ Motywacja 'od’ jest 2 x silniejsza niż motywacja 'do’. To dlatego profilakt
 
 Related notes: [[Personal development/Brain/Psychology/Basics/Motivation]]
 
-[Read full article](https://zenjaskiniowca.pl/motywacja/)
+[Read the full article](https://zenjaskiniowca.pl/motywacja/)

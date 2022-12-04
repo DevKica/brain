@@ -6,4 +6,4 @@ title: Syndrom jaskiniowca
 >
 > Bezpieczniej jest zawsze założyć najgorszy scenariusz, a więc nie licz na to że twoje słabości same znikną.
 
-[Read full article](https://zenjaskiniowca.pl/syndrom-jaskiniowca/)
+[Read the full article](https://zenjaskiniowca.pl/syndrom-jaskiniowca/)
