@@ -10,7 +10,7 @@ List of apps:
 - [[Tools/Cron]] - Calendar with shortcuts
 - [[Tools/Habit now]] - Habit tracker
 - [[Tools/Karabiner]] - Keyboard customizer for MacOS
-- [[Tools/Keyboard maestro]] - Automation app for MacOS
+- [[Tools/Keyboard Maestro]] - Automation app for MacOS
 - [[Tools/Make]] - ???
 - [[Tools/Medito]] - Meditation app
 - [Obsidian](https://obsidian.md/) - Powerful Markdown-based note-taking app

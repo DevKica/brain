@@ -4,7 +4,7 @@ title: Torowanie
 
 >[!Hint] Cokolwiek teoretyk wymyśli, praktyk udowodni
 
->[!Hint] Kiedy  zainteresujesz się czymś bardziej, Twój mózg przestaje odfiltrowywać to z otaczającego świata. 
+>[!tldr] Kiedy  zainteresujesz się czymś bardziej, Twój mózg przestaje odfiltrowywać to z otaczającego świata. 
 >
 > Ponieważ nasza świadoma percepcja jest mocno ograniczona, mózg filtruje to, co do Twojej świadomości dociera. Teraz filtr zmienia charakterystykę i obiekt zainteresowania rzuca się wyraźnie w oczy. Zostaje ze środowiska wydzielony. Twoja percepcja się zmienia. A ponieważ percepcja jest rzeczywistością, do pewnego stopnia zmienia się Twój świat. Twój wewnętrzny teoretyk zmienił założenia, czyli mapę. Praktyk udowodni, że mapa zgadza się z tym co na zewnątrz
 
