@@ -17,3 +17,6 @@ List of articles with my favourite quotes from them:
 - [[Knowledge/Web/Zen Jaskiniowca/Może]]
 - [[Knowledge/Web/Zen Jaskiniowca/Opór]]
 - [[Knowledge/Web/Zen Jaskiniowca/Jak zostać królem życia]]
+- [[Knowledge/Web/Zen Jaskiniowca/Jak powstaje przesąd]]
+- [[Knowledge/Web/Zen Jaskiniowca/O tym dlaczego chudzi są chudzi]]
+- [[Knowledge/Web/Zen Jaskiniowca/Syndrom człowieka z młotkiem]]
