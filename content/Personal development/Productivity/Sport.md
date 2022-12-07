@@ -28,7 +28,7 @@ I do these two workouts alternately. Btw I use dumbbells.
 **+ Abs** workout (10min)
 
 
-### Abs (30s/10s of break)
+### Abs (30s exercise / 10s break) 
 - leg raises
 - plank / long lever
 - mountain climbers
@@ -39,3 +39,6 @@ I do these two workouts alternately. Btw I use dumbbells.
 - hollow body 
 - v-ups
 - crunches
+
+I use this [interval timer](https://www.youtube.com/watch?v=3IgKjnHLBh4)
+
