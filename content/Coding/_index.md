@@ -9,7 +9,7 @@ List of apps and extensions I use on daily basis:
 - [DBeaver](https://dbeaver.io/) - Universal Database Tool
 - [[Coding/Vim]] - Efficient text editing
 - [[Coding/Visual studio code]] - The best code editor
-- [Coding/Tabnine](https://www.tabnine.com/) - A.I. code completion assistant
+- [Tabnine](https://www.tabnine.com/) - A.I. code completion assistant
 - [Vscode icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) - Icons for Visual Studio Code
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) -  Create more human-friendly comments
 - [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport) - Code actions and completion for all available imports
