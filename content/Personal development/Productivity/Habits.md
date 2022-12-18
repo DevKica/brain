@@ -24,4 +24,4 @@ Drink water instead.  Most sweet drinks are just liquid sugar which isn't very h
 ### Limiting music listening
 Nowadays, everyone listens to music ALL the time. While studying, exercising, taking a short walk, driving a car. We don't let our mind rest, we don't want to be left with only our own thoughts.  
 And I think it's a huge mistake, because even if, for example, driving a car without music is boring, most often in such moments (of boredom) valuable ideas and reflections came to my mind. 
-Currently, I've been driving without music in the car for over a year, and I recommend everyone to try it, at least for a month. 
+For example, currently, I've been driving without music in the car for over a year, and I recommend everyone to try it, at least for a month. 
