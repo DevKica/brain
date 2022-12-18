@@ -19,8 +19,8 @@ todo
 - extended [mental models](https://en.wikipedia.org/wiki/Mental_model)
 
 List of concepts
-- [[Personal development/Concepts/Better safe than sorry]]
-- [[Personal development/Concepts/Definitive goals]]
-- [[Personal development/Concepts/Life as a game]]
-- [[Personal development/Concepts/40% rule]]
-- [[Personal development/Concepts/Two Day rule]]
+- [[Core/Concepts/Better safe than sorry]]
+- [[Core/Concepts/Definitive goals]]
+- [[Core/Concepts/Life as a game]]
+- [[Core/Concepts/40% rule]]
+- [[Core/Concepts/Two Day rule]]

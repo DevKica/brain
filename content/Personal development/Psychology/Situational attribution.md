@@ -8,6 +8,6 @@ title: Situational attribution
 
 >[!Hint] People generally tend to use internal rather than external attribution too often
 >
-> This effect is called the [[Personal development/Brain/Fundamental attribution error]].
+> This effect is called the [[Personal development/Psychology/Fundamental attribution error]].
 
 References [pl]: [Atrybucja zewnętrzna](https://pl.wikipedia.org/wiki/Atrybucja_zewn%C4%99trzna)

@@ -2,7 +2,7 @@
 title: Reward system
 ---
 
-learn about your [[Personal development/Brain/_index]]
+learn about your [[Personal development/Psychology/_index]]
 
 >[!hint] Dopamine is like oxygen or water
 >

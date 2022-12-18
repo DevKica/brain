@@ -10,7 +10,7 @@ title: Habits
  # Useful habits
  
 ### Cold Showers
-Just try to start with 1 minute and then slowly work your way up to 3 minutes. Cold showers will help you boost your immune system, improve the quality of your skin and most importantly, overcome the [[Personal development/Brain/Resistance]] to doing uncomfortable things on a daily basis.
+Just try to start with 1 minute and then slowly work your way up to 3 minutes. Cold showers will help you boost your immune system, improve the quality of your skin and most importantly, overcome the [[Personal development/Psychology/Resistance]] to doing uncomfortable things on a daily basis.
 
 ### Meditation
 I'm trying to meditate every day (from 3 to 10 minutes) using [[Tools/Medito]]. It helps me to be more aware of my thoughts.
