@@ -7,8 +7,6 @@ title: Habits
 > We are what we **repeatedly** do. Excellence, then, is not an **act**, but a **habit**.
 
  
- # Useful habits
- 
 ### Cold Showers
 Just try to start with 1 minute and then slowly work your way up to 3 minutes. Cold showers will help you boost your immune system, improve the quality of your skin and most importantly, overcome the [[Personal development/Psychology/Resistance]] to doing uncomfortable things on a daily basis.
 

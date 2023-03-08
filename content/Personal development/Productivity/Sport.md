@@ -7,38 +7,25 @@ I do these two workouts alternately. Btw I use dumbbells.
 ### Workout 1
 <br/>
 
-| Name | Repetitions | Series | Weight |
-|-|-|-|-|
-|Pushups|12|4|none|
-|Lateral raises|12|4|5 kg|
-|Reversed biceps curls|12|4| 5 / 6.5 kg|
+| Name                    | Repetitions | Series |
+| ----------------------- | ----------- | ------ |
+| Dumbell bench press     | 12          | 3      |
+| Lying tricep extensions | 12          | 3      |
+| Lateral raises          | 12          | 3      |
+| Bicep curls             | 12          | 3      |
 
- **+ Abs** workout (10min)
 <br/>
 
 ### Workout 2
 <br/>
 
-| Name | Repetitions | Series | Weight |
-|-|-|-|-|
-|Front raises|12|4|5 kg|
-|Biceps curls|12|4|6.5 kg|
-|Triceps extensions|12|4| 6.5 kg|
+| Name                 | Repetitions | Series |
+| -------------------- | ----------- | ------ |
+| Reversed bicep curls | 12          | 3      | 
+| Dumbell shrug        | 12          | 3      |
+| Neck exercise        | 12          | 3      |
+| ABS                  | 10 min      | 1      |
 
-**+ Abs** workout (10min)
 
-
-### Abs (30s exercise / 10s break) 
-- leg raises
-- plank / long lever
-- mountain climbers
-- russian twist
-- bicycle crunches
-- flutter kicks
-- reverse crunches
-- hollow body 
-- v-ups
-- crunches
-
-I use this [interval timer](https://www.youtube.com/watch?v=3IgKjnHLBh4)
+Useful [interval timer](https://www.youtube.com/watch?v=3IgKjnHLBh4)
 
