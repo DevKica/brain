@@ -2,4 +2,4 @@
 title: Do the work
 ---
 
-Literally do something bruh
+The one and only book for **overcoming** procrastination. It provides practical guidance and inspiration to help you break through **resistance**, overcome self-doubt, and take **actions** towards your **dreams**.

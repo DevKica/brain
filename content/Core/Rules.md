@@ -2,4 +2,4 @@
 title: Rules
 ---
 
-todo
+1. No phone in bed
