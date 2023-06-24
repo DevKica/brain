@@ -11,3 +11,5 @@ content/.obsidian.vimrc
 content/journal
 content/ignore
 
+
+*.icloud
