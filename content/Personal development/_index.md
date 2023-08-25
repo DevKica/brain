@@ -2,7 +2,4 @@
 title: Personal development 
 ---
 
-todo
-- [[Personal development/Psychology/_index]]
-- [[Core/Concepts/_index]]
-- [[Personal development/Productivity/_index]]
+TODO - but basically you just need to get the fuck up and stop being lazy and arrogant

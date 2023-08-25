@@ -2,9 +2,8 @@
 title: Core
 ---
 
+## Philosophy behind my decisions
+How will this action help me achieve my goals?
 
-- [[Core/Minimalism]]
-- [[Core/Process]]
-- [[Core/Philosophy behind my decisions]]
-- [[Core/Rules]]
-- [[Core/Concepts/_index]]
+## Process
+You take care of the process, the process takes care of the results.
