@@ -7,7 +7,7 @@ List of apps:
 - [Bitwarden](https://bitwarden.com/) - Password manager
 - [[Tools/Karabiner]] - Keyboard customizer for MacOS
 - [[Tools/Keyboard Maestro]] - Automation app for MacOS
-- [Obsidian](https://obsidian.md/) - Powerful Markdown-based note-taking app
+- [Notion](https://www.notion.so/) - The all-in-one workspace for your notes, tasks, projects
 - [[Tools/Rize]] - Activity tracker
 - [[Tools/Raycast]] - Advanced launcher for MacOS
 - [[Tools/Todoist]] - To-do list
